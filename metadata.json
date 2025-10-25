@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Image Studio",
+  "description": "An AI-powered image editing and product photography application. Use text prompts to apply magical edits to your photos or transform pictures of clothes into professional, studio-quality product shots with clean white backgrounds using Gemini.",
+  "requestFramePermissions": []
+}
